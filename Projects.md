@@ -1,4 +1,4 @@
-# apnacollege-demo
+# project section
 This is my first Git Repository
 <br>
 Updated by - Dipanshu sharma
